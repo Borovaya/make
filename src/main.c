@@ -2,8 +2,8 @@
 #include "t.h"
 
 int main()
-{
-printf("Hello, World!");
-Something();
+  {
+        printf("Hello, World!");
+        Something();
 return 0;
-}
+  }
